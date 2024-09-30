@@ -1,5 +1,3 @@
-# Sistema de Elegibilidade de Voto
-
 # Sistema de Verificação de Elegibilidade para Voto com React
 
 Este projeto é um sistema simples de verificação de elegibilidade para voto criado com React. O sistema permite que os usuários insiram sua idade e verifiquem se podem votar, de acordo com regras relacionadas à idade e ao registro para votação.
